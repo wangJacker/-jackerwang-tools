@@ -3,6 +3,7 @@
     "license": "MIT",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
+    "github": "https://github.com/wangJacker/tools",
     "files": [
         "dist",
         "src"
@@ -25,6 +26,10 @@
         "accuracy",
         "round"
     ],
+    "np": {
+        "yarn": false,
+        "contents": "dist"
+    },
     "peerDependencies": {},
     "husky": {
         "hooks": {
